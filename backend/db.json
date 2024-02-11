@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio!",
+      "autoria": "Gabs",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Que bom que você veio também!",
+      "autoria": "Gabs",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Três é demais!",
+      "autoria": "Gabs",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Estou pensando em Kotlin agora",
+      "autoria": "Ansiedade",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "Como isso é incrível!",
+      "autoria": "Gabs",
+      "modelo": "modelo3",
+      "id": 5
+    }
+  ]
+}
